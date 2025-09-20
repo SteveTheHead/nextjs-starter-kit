@@ -1,5 +1,5 @@
 {
-  "name": "apple-pass",
+  "name": "mj-co-crm",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -90,5 +90,6 @@
     "tailwindcss": "^4.1.7",
     "tw-animate-css": "^1.3.0",
     "typescript": "^5"
-  }
+  },
+  "description": "CRM and Client Portal for MJ & Co Visa Services"
 }
